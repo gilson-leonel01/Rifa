@@ -14,13 +14,13 @@
 // Execucao da funcao de exibir os temas qaundo e pressionado o botao e mostrar;
 
 const themesWorks = [
-    "Grupo Nº 1: Micro-controladores",
-    "Grupo Nº 2: Linguagem Assembly",
-    "Grupo Nº 3: Clock de um Computador",
+    //"Grupo Nº 1: Micro-controladores",
+    //"Grupo Nº 2: Linguagem Assembly",
+    //"Grupo Nº 3: Clock de um Computador",
     "Grupo Nº 4: Gabinete",
-    "Grupo Nº 5: Fonte de alimentação",
-    "Grupo Nº 6: Placa mãe",
-    //"Grupo Nº 7: Chipset",
+    //"Grupo Nº 5: Fonte de alimentação",
+    //"Grupo Nº 6: Placa mãe",
+    "Grupo Nº 7: Chipset",
     "Grupo Nº 8: Armazenamento em massa",
     "Grupo Nº 9: Gestão de memória"
 ];
