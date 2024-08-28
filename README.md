@@ -1,4 +1,4 @@
-
+<!--
 ### Programming Languages
 <div style="display: inline_block">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -32,4 +32,4 @@
   <img align="center" alt="MaterialUI" src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img align="center" alt="ChakraUI" src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
 </div>
-
+-->
